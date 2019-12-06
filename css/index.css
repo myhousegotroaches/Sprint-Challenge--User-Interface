@@ -299,8 +299,22 @@ footer nav a {
   background: dodgerblue;
 }
 
-/* about html page */
+/* about html page (ap = about page) */
 
 .about-top-section {
-  border-bottom: ;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.top-middle-ap {
+  display: flex;
+}
+
+.how-we-work-ap {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-middle-ap {
+  display: flex;
 }
